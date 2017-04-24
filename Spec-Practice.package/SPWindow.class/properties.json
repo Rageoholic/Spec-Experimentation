@@ -1,0 +1,14 @@
+{
+	"category" : "Spec-Practice",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "HershKrishna 4/24/2017 18:39",
+	"instvars" : [
+		 ],
+	"name" : "SPWindow",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

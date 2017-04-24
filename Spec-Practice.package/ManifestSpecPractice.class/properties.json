@@ -1,0 +1,14 @@
+{
+	"category" : "Spec-Practice",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ManifestSpecPractice",
+	"pools" : [
+		 ],
+	"super" : "PackageManifest",
+	"type" : "normal" }

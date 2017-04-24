@@ -1,0 +1,1 @@
+I represent a simple window. I exist to let Rage learn how this stuff works. Rage is the guy working on this.
