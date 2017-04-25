@@ -1,0 +1,11 @@
+[merge "mcVersion"]
+	name = GitFileTree MergeDriver for Monticello
+	driver = pathToGitFileTree-MergeDriver/merge --version %O %A %B
+[merge "mcMethodProperties"]
+	name = GitFileTree MergeDriver for Monticello
+	driver = pathToGitFileTree-MergeDriver/merge --methodProperties %O %A %B
+[merge "mcProperties"]
+	name = GitFileTree MergeDriver for Monticello
+	driver = pathToGitFileTree-MergeDriver/merge --properties %O %A %B
+[mergetool "mcmerge"]
+	cmd = pathToGitFileTree-MergeDriver/merge --mergetool $BASE $LOCAL $REMOTE $MERGED
