@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "HershKrishna 4/24/2017 18:39",
 	"instvars" : [
-		 ],
+		"labelGreeting",
+		"textName",
+		"buttonGreet" ],
 	"name" : "SPWindow",
 	"pools" : [
 		 ],

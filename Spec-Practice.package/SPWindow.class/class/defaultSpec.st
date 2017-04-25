@@ -1,3 +1,7 @@
-as yet unclassified
+specs
 defaultSpec
-	^ SpecLayout composed.
+	^ SpecColumnLayout new
+		add: #labelGreeting;
+		add: #textName;
+		add: #buttonGreet;
+		yourself .
