@@ -8,7 +8,10 @@
 	"instvars" : [
 		"labelGreeting",
 		"textName",
-		"buttonGreet" ],
+		"buttonGreet",
+		"radioMr",
+		"radioMrs",
+		"radioMs" ],
 	"name" : "SPWindow",
 	"pools" : [
 		 ],

@@ -6,5 +6,5 @@ initializePresenter
 	textName whenTextChanged: [
 		 buttonGreet enable ] .
 	buttonGreet action: [ 
-		labelGreeting label: 'Hello, ', textName text, '!'.
+		labelGreeting label: 'Hello, ', self userTitle, ' ' , textName text, '!'.
 		buttonGreet disable ].
